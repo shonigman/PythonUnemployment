@@ -9,7 +9,9 @@ and other socio-economic factors, such as tax rates and political party governme
 ## Installation and Operation
 
 In order to view this project, you will need to download the "PythonProject.html" file.
-Then you can open that file in the web browser of you choice.
+Then you can open that file in the web browser of you choice. Alternatively, you should 
+also be able to right-click the "PythonProject.html" file and select "Open in another
+tab".
 
 ## Files
 
